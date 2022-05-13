@@ -8,7 +8,7 @@ Introduction:
 
 We used the data collected surrounding Kickstarter fundraisers around the world based on a variety of Categories. We narrowed down the data to find specific niches that Louise has specific interests in such as "plays" in "Great Britain."  We try to narrow down our data for related information that applies strictly to Louise. This removes most of the clutter in the large sum of data that we had surrounding Kickstarters. The main purpose behind this was to find the best month for Louise to launch her Kickstarter Fundraiser as well as how much should she budget for it. We narrowed our analysis to two possible outcomes which are "Theater Outcomes by Launch Date" and "Outcomes based on Goals." We used data over a number of years and viewed how successful/unsuccessful a number of theater Kickstarters were over specific months over a span of a number of years. We also
 
-![This is an image](https://drive.google.com/file/d/1p916Tdt2IfHltD-fdb5em5Bps--4GDEI/view?usp=sharing)
+![This is an image](https://drive.google.com/file/d/1PurHtt76Ah5BatbGL6eTwOOQt5x7doUn/view?usp=sharing)
 
 
 ---
