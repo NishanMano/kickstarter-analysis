@@ -33,17 +33,17 @@ In our conclusion, we were able to determine that regarding "Theater Outcomes by
 
 With regards to the data for "Outcomes based on Goals," we can provide Louise insight on how much she should project to save prior to starting a Kickstarter. Take an in-depth look at the chart below showing the statistics of our data. It is quite easy to see that Successful Kickstarters have very similar amounts of funds for Mean Goal and Mean Pledged, whereas when we look for the Mean Goal and Mean Pledged for Failed Kickstarters It is obvious that the leaders of these fundraisers were overestimating their pledges by close to $9000. We also notice that the median pledged was very low as well. This can lead us to believe that either the topic chosen was not popular among the masses or they canvased the fundraiser in the wrong location, or they simply asked the wrong donors altogether. Using the measures of spreads and comparing both the successful and failed columns can provide such a simplistic insight on how Louise should budget and plan.
 
- 
+ ![Outcomes_vs_Goals](https://i.ibb.co/yQK7Vsr/Descriptive-Statistics.png)
 
 Louise did mention that she has $4,000 to invest in her theater play taking place in Great Britain. In comparison to other funding goal ranges, we can see that this goal range is on average one of the better options. It's either she starts with this range or starts within the range. If Louise starts off her fundraiser around $1000 - $4999, her success rate would be high (~75%) based on past results. I believe this would be the best starting place as we can always invest more based on the results, we get with our initial investment of around $1000 - $4999.
 
-![Outcomes_vs_Goals](https://i.ibb.co/TPpZLpB/Outcomes-vs-Goals.png)
+(https://i.ibb.co/TPpZLpB/Outcomes-vs-Goals.png)
 
 More funding does not necessarily mean a higher success rate and we would want to communicate that to Louise. If we look at the next two ranges past $1000-$4999 which are $5000 - $9999 and $10 000 to $14 999. The results seen on the graph are not as promising as one would think. Approximately 55% of Kickstarter who had goals within this range were successful and 45% were unsuccessful.
 
 We can also use the Box-Whisker Plot to provide further analysis for Louise. Looking at the graph below we can see that the "goal" box and whisker plot is closely aligned with the "pledged" box and whisker plot in the range from $0 - $1999. We can encourage Louise to spend her money wisely in the initial stages and to hold on to some of the $4000 if all of it is not needed immediately.
 
- 
+![Outcomes_vs_Goals](https://i.ibb.co/VN7CfLv/GBR-Box-Whisker-Plot.png)
 
 ---
 
